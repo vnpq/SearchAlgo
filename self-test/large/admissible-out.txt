@@ -1,0 +1,34 @@
+BFS
+Path: 0 -> 499
+Time:  0.0000000000000000 miliseconds
+Memory: 19.81 KB
+---------------
+DFS
+Path: 0 -> 499
+Time:  0.0000000000000000 miliseconds
+Memory: 8.22 KB
+---------------
+UCS
+Path: 0 -> 85 -> 266 -> 249 -> 455 -> 25 -> 234 -> 221 -> 499
+Time:  298.4519004821777344 miliseconds
+Memory: 125.84 KB
+---------------
+IDS
+Path: 0 -> 499
+Time:  0.0000000000000000 miliseconds
+Memory: 4.16 KB
+---------------
+GBFS
+Path: 0 -> 499
+Time:  0.0000000000000000 miliseconds
+Memory: 23.05 KB
+---------------
+A*
+Path: 0 -> 85 -> 266 -> 249 -> 455 -> 25 -> 234 -> 221 -> 499
+Time:  63.0116462707519531 miliseconds
+Memory: 83.95 KB
+---------------
+Hill Climbing
+Path: -1
+Time:  0.0000000000000000 miliseconds
+Memory: 0.03 KB
